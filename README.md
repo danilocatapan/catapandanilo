@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<br/>
-<br />
-
 I'm Danilo Rodrigues Catapan, a backend Developer and Cloud Enthusiast.
 
 **Talking about Personal Stuffs:**
