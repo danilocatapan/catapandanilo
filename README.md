@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 <br/>
-
-<a href="https://www.linkedin.com/in/catapandanilo/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
 <br />
 
 I'm Danilo Rodrigues Catapan, a backend Developer and Cloud Enthusiast.
@@ -26,3 +21,9 @@ I'm Danilo Rodrigues Catapan, a backend Developer and Cloud Enthusiast.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br />
+<a href="https://www.linkedin.com/in/catapandanilo/">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
